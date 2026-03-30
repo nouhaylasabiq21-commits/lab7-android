@@ -105,15 +105,7 @@ Clic sur un élément
 Popup avec AlertDialog
 Mise à jour dynamique
 
-🚀 Splash Screen
-Écran d’introduction avec une étoile
-Redirection automatique vers la liste
-📌 Améliorations possibles
-Base de données (SQLite / Room)
-API pour images en ligne
-Mode sombre 🌙
-Animations avancées
 Favoris ❤️
-👨‍💻 Auteur
+#👨‍💻 Auteur
 Nom : NOUHAYLA SABIQ
 Projet : TP Android – StarsGallery
