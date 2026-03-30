@@ -93,19 +93,8 @@ int resId = context.getResources().getIdentifier(
     context.getPackageName()
 );
 holder.imgStar.setImageResource(resId);
-🔍 Recherche
 
-Implémentée avec :
 
-SearchView
-Filterable
-adapter.getFilter().filter(newText);
-✏️ Modification des notes
-Clic sur un élément
-Popup avec AlertDialog
-Mise à jour dynamique
-
-Favoris ❤️
 #👨‍💻 Auteur
 Nom : NOUHAYLA SABIQ
 Projet : TP Android – StarsGallery
